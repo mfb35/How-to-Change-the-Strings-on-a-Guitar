@@ -20,9 +20,6 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
     -many people use cross cut pliers after stirngs are loose
     -be carefull to not scratch the guitar if tools are used
     -throw old strings away immediately so they do not scratch the guitar
-    
-    
-     > ![cutter](cutter.jpeg)
 
 
 2. Apply fretboard cleaner to toothbrush and gently scrub the fretboard from one end to the other.
@@ -34,10 +31,6 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
     -DO NOT USE POWER TOOLS
     -polished frets will make string bends eaiser
     -make sure to not overpolish. Only polish until tarnish is removed
-    
-    
-     > ![polish](polish.jpg)
-
 
 
 4. Apply fretboard oil to the fretboard.
