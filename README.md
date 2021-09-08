@@ -17,24 +17,24 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
 ## Steps
 
 1. Loosen old strings and carefully remove them as fit.
-    -many people use cross cut pliers after stirngs are loose
-    -be carefull to not scratch the guitar if tools are used
-    -throw old strings away immediately so they do not scratch the guitar
-
+    - many people use cross cut pliers after stirngs are loose
+    - be carefull to not scratch the guitar if tools are used
+    - throw old strings away immediately so they do not scratch the guitar
+     > ![cutter](cutter.jpeg)
 
 2. Apply fretboard cleaner to toothbrush and gently scrub the fretboard from one end to the other.
-    -be sure to not apply fretboard cleaner directly to the guitar, this may damage it
-    -this will remove sweat and oils from normal play
+    - be sure to not apply fretboard cleaner directly to the guitar, this may damage it
+    - this will remove sweat and oils from normal play
     
 3. Use any fret polishing kit of your choice on each fret as needed.
-    -make sure to only use a kit designed for guitars. This will keep the guitar safe
-    -DO NOT USE POWER TOOLS
-    -polished frets will make string bends eaiser
-    -make sure to not overpolish. Only polish until tarnish is removed
-
+    - make sure to only use a kit designed for guitars. This will keep the guitar safe
+    - DO NOT USE POWER TOOLS
+    - polished frets will make string bends eaiser
+    - make sure to not overpolish. Only polish until tarnish is removed
+     > ![polish](polish.jpg)
 
 4. Apply fretboard oil to the fretboard.
-    -allow to sit for ten minutes then wipe off with microfiber cloth
+    - allow to sit for ten minutes then wipe off with microfiber cloth
 
 5. Conservatively apply guitar body polish to microfiber cloth and wipe down the body and neck.
 
