@@ -5,13 +5,13 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
 
 ## Supplies needed
 
--Micro fiber clothes
--soft bristle brush (toothbrush)
--fretboard oil
--fret polishing kit
--guitar body polish
--fretboard cleaner
--New guitar strings
+- Micro fiber clothes
+- soft bristle brush (toothbrush)
+- fretboard oil
+- ret polishing kit
+- guitar body polish
+- fretboard cleaner
+- New guitar strings
    > Strings come in many gauges. The gauge you choose is all personal preferance. Gauges are classified with a number. The smaller the number the thinner the strings will be and the larger the number the thicker the strings will be. The standard gauges are either 10 or 9 depending on the model of guitar.
 
 ## Steps
