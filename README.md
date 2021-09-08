@@ -5,7 +5,7 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
 
 ## Supplies needed
 
-- Micro fiber clothes
+- Micro fiber cloths
 - soft bristle brush (toothbrush)
 - fretboard oil
 - ret polishing kit
