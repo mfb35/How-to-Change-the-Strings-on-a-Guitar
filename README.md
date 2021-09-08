@@ -20,7 +20,7 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
     -many people use cross cut pliers after stirngs are loose
     -be carefull to not scratch the guitar if tools are used
     -throw old strings away immediately so they do not scratch the guitar
-         > ![cutter](cutter.jpg)
+         > ![cutter](cutter.jpeg)
 
 2. Apply fretboard cleaner to toothbrush and gently scrub the fretboard from one end to the other.
     -be sure to not apply fretboard cleaner directly to the guitar, this may damage it
@@ -40,7 +40,7 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
 
 6. Wipe down any hardware using the same method in step 5.
 
-7. Put new strings on guitar in the correct order. Bass strings are closer to the cieling,
+7. Put new strings on guitar in the correct order. Bass strings are closer to the ceiling,
 and treble strings are closer to the floor.
      > ![strings](strings.jpg)
 
