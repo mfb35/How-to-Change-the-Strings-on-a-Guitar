@@ -8,7 +8,7 @@ Changing the strings on a guitar is vital for making a guitar sound as good as p
 - Micro fiber cloths
 - soft bristle brush (toothbrush)
 - fretboard oil
-- ret polishing kit
+- fret polishing kit
 - guitar body polish
 - fretboard cleaner
 - New guitar strings
