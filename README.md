@@ -47,7 +47,7 @@ and treble strings are closer to the floor.
 8. Tune your guitar. Some people choose to use a tuning winder when the strings are very loose.
      > ![winder](winder.jpg)
 
-9. Adjust the action by turning the screws on the bridge.
+9. Adjust the action(height of strings from fretboard) by turning the screws on the bridge.
     - the action will be correct when there is no fret buzz
     - fret buzz is when the strings do not ring out since they touch the frets
     - Check all notes on the guitar for fret buzz
